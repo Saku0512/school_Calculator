@@ -7,6 +7,9 @@
 ・自然対数 <br>
 ・ルート <br>
 
+<img width="653" height="905" alt="Screenshot from 2026-05-13 17-31-41" src="https://github.com/user-attachments/assets/b58459a5-80a7-48b2-a49e-fb2071ec135d" />
+
+
 # 実行環境
 python 3.11.0 <br>
 pip 22.0.2 <br>
